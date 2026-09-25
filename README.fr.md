@@ -1,6 +1,6 @@
 # Base de données — Gestion d'un cabinet d'avocats
 
-🇬🇧 [ English version](README.md)
+[🌐 English version](README.md)
 
 Projet académique de conception de bases de données (INF1096) : cycle
 complet de modélisation pour un cabinet d'avocats — du diagramme ER au
