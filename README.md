@@ -1,6 +1,6 @@
 # Law Firm Management Database
 
-[🇫🇷 Version française] (README.fr.md)
+[🇫🇷 Version française](README.fr.md)
 
 Academic database-design project (INF1096) : full modeling cycle for a law
 firm — from the ER diagram to a normalized relational schema.
